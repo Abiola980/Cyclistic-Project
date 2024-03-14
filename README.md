@@ -10,7 +10,8 @@ Data is the cornerstone of modern decision-making but is often messy and inconsi
 What is Data Cleaning?
 Data cleaning, also known as data cleansing or data scrubbing, is the process of identifying and correcting errors, inconsistencies, and inaccuracies in datasets to improve their quality and reliability. It involves several steps, each aimed at ensuring that the data is accurate, complete, and formatted correctly for analysis. 
 
-* Step 1: Importing Libraries
+* Step 1: Importing Libraries -
+  
 The first step in this data-cleaning process was to import the necessary libraries. In this case, I used Pandas, a powerful data manipulation library in Python.
 
 * Step 2: Reading the CSV Files
